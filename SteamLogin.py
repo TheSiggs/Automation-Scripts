@@ -21,9 +21,9 @@ def find_location():
 
 def main():
     click(855, 454) # Username
-    write("DotNetPlus")
+    write("")
     click(853, 490) # Password
-    write("DynamicPi01")
+    write("")
     click(866, 545) # Login Button
     return
 
